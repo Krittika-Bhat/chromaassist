@@ -1,0 +1,13 @@
+image_name,deficiency,method,delta_e_lost_orig,delta_e_lost_corr,pair_discrim_sim_orig,pair_discrim_sim_corr,pair_discrim_gain_pct,target_mask_area_pct
+apples_and_pears.png,protanopia,global,14.69,10.72,50.2834,68.9891,37.2,100.0
+apples_and_pears.png,protanopia,targeted,14.69,11.0,50.2834,68.9969,37.22,25.3
+apples_and_pears.png,deuteranopia,global,14.63,13.41,15.525,38.9004,150.57,100.0
+apples_and_pears.png,deuteranopia,targeted,14.63,13.68,15.525,38.8926,150.52,25.3
+ishihara_plate_8.png,protanopia,global,25.27,15.92,25.354,45.8349,80.78,100.0
+ishihara_plate_8.png,protanopia,targeted,25.27,15.96,25.354,45.7984,80.64,66.7
+ishihara_plate_8.png,deuteranopia,global,25.24,21.44,11.3582,30.1492,165.44,100.0
+ishihara_plate_8.png,deuteranopia,targeted,25.24,21.46,11.3582,30.062,164.67,66.7
+metro_transit_map.png,protanopia,global,3.61,2.64,26.0461,35.5936,36.66,100.0
+metro_transit_map.png,protanopia,targeted,3.61,2.64,26.0461,34.9218,34.08,5.6
+metro_transit_map.png,deuteranopia,global,3.45,3.13,14.1704,21.6085,52.49,100.0
+metro_transit_map.png,deuteranopia,targeted,3.45,3.16,14.1704,21.0533,48.57,5.6
